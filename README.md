@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![jiankunking's github stats](https://github-readme-stats.vercel.app/api?username=jiankunking)](https://github.com/jiankunking)
+
+### About Me
+- Java, Golang, C#, JavaScript, Python
+- MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
+- Linux, Windows
+- Docker, Kubernetes
+
+
+
 <!--
 **jiankunking/jiankunking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
