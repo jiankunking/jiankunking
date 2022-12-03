@@ -2,7 +2,10 @@
 
 [![jiankunking's github stats](https://github-readme-stats.vercel.app/api?username=jiankunking)](https://github.com/jiankunking)
 
-### About Me
+### My Blog
+[jiankunking's blog](https://jiankunking.github.io/)
+
+### Skills
 - Java, Golang, C#, JavaScript, Python
 - MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
 - Linux, Windows
