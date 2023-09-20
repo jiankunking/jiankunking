@@ -9,7 +9,7 @@
 ### Skills
 - Java, Golang, C#, JavaScript, Python
 - MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
-- Linux, Windows
+- Linux, Windows Server
 - Docker, Kubernetes
 
 
