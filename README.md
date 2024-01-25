@@ -10,7 +10,7 @@
 - Java, Golang, C#, JavaScript, Python
 - MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
 - Linux, Windows Server
-- Docker, Kubernetes
+- Kubernetes
 
 
 
