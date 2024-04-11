@@ -3,9 +3,9 @@
 [![jiankunking's github stats](https://github-readme-stats.vercel.app/api?username=jiankunking)](https://github.com/jiankunking)
 
 ### My Blog
-[Blog: https://jiankunking.com](https://jiankunking.com)
+Blog:[https://jiankunking.com](https://jiankunking.com)
 
-[Note: https://blog.csdn.net/jiankunking](https://blog.csdn.net/jiankunking)
+Note:[https://blog.csdn.net/jiankunking](https://blog.csdn.net/jiankunking) 访问量600W+
 ### Skills
 - Java, Golang, C#, JavaScript, Python
 - MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
