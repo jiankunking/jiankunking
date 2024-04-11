@@ -2,10 +2,10 @@
 
 [![jiankunking's github stats](https://github-readme-stats.vercel.app/api?username=jiankunking)](https://github.com/jiankunking)
 
-### My Blog
-Blog:[https://jiankunking.com](https://jiankunking.com)
-
-Note:[https://blog.csdn.net/jiankunking](https://blog.csdn.net/jiankunking) 访问量600W+
+### 传送门
+1. 📫 [![Mail Badge](https://img.shields.io/badge/-jiankunking@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankunking@163.com)](mailto:jiankunking@163.com)
+2. [自留地 - jiankunking.com](https://jiankunking.com)
+3. [CSDN - blog.csdn.net/jiankunking](https://blog.csdn.net/jiankunking)  [![Blog Badge](https://img.shields.io/badge/blog-600w%20pageview-brightgreen)](https://blog.csdn.net/jiankunking)
 ### Skills
 - Java, Golang, C#, JavaScript, Python
 - MySQL, ElasticSearch, Kafka, RocketMQ, Prometheus
